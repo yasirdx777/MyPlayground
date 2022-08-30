@@ -1,5 +1,5 @@
 # MyPlayground
 
-## Demonstrators
+## Demonstrates
 
 - Vertical inhanrtins vs horizontal inhanrtins
